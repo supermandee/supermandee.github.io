@@ -1,0 +1,4 @@
+title: COUCH TO STARTUP
+description: Stepping out of comfort, into creation.
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
