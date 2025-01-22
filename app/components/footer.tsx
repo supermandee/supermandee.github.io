@@ -1,3 +1,5 @@
+'use client'
+
 function ArrowIcon() {
   return (
     <svg
@@ -16,19 +18,22 @@ function ArrowIcon() {
 }
 
 export default function Footer() {
+  const copyRSSLink = () => {
+    navigator.clipboard.writeText(window.location.origin + '/rss');
+    alert('RSS link is copied!');
+  };
+
   return (
     <footer className="mb-16">
       <ul className="font-sm mt-8 flex flex-col space-x-0 space-y-2 text-neutral-600 md:flex-row md:space-x-4 md:space-y-0 dark:text-neutral-300">
         <li>
-          <a
+          <button
             className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-            rel="noopener noreferrer"
-            target="_blank"
-            href="/rss"
+            onClick={copyRSSLink}
           >
             <ArrowIcon />
             <p className="ml-2 h-7">rss</p>
-          </a>
+          </button>
         </li>
         <li>
           <a
@@ -42,7 +47,6 @@ export default function Footer() {
           </a>
         </li>
       </ul>
-
     </footer>
   )
 }
