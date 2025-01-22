@@ -7,7 +7,7 @@ const navItems = {
   '/blog': {
     name: 'blog',
   },
-  'https://google.com': {
+  '/about': {
     name: 'about',
   },
 }

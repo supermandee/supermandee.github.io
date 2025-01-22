@@ -12,15 +12,15 @@ import GoogleAnalytics from './GoogleAnalytics'
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
   title: {
-    default: 'Next.js Portfolio Starter',
-    template: '%s | Next.js Portfolio Starter',
+    default: 'Couch to Startup',
+    template: '%s | Couch to Startup',
   },
-  description: 'This is my portfolio.',
+  description: 'Welcome to Couch to Startup, an honest and unfiltered journal of my journey from living a life of comfort to creating something meaningful.',
   openGraph: {
-    title: 'My Portfolio',
-    description: 'This is my portfolio.',
+    title: 'Couch to Startup',
+    description: 'Welcome to Couch to Startup, an honest and unfiltered journal of my journey from a life of comfort to creating something meaningful. I’m sharing the lessons, challenges, and breakthroughs as I step into the world of entrepreneurship and personal growth.',
     url: baseUrl,
-    siteName: 'My Portfolio',
+    siteName: 'Couch to Startup',
     locale: 'en_US',
     type: 'website',
   },
@@ -36,6 +36,7 @@ export const metadata: Metadata = {
     },
   },
 }
+
 
 const cx = (...classes) => classes.filter(Boolean).join(' ')
 
