@@ -5,34 +5,16 @@
         <link>https://couchtostartup.com/</link>
         <description>This is my portfolio RSS feed</description>
         <item>
-          <title>I love my bf</title>
-          <link>https://couchtostartup.com//blog/i-like-my-bf</link>
-          <description>heheh he is so hot and his pp so good.</description>
-          <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
+          <title>Lessons from Conversations</title>
+          <link>https://couchtostartup.com//blog/lessons-from-conversations</link>
+          <description>A couple of weeks ago, I reached out to Tea at Shiloh, and to my surprise, one of the owners kindly agreed to speak with me. We talked for over an hour, and they shared so much valuable advice about starting a teahouse. I was incredibly grateful that they took the time to help me.</description>
+          <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
         </item>
 <item>
-          <title>Silly</title>
-          <link>https://couchtostartup.com//blog/new-one</link>
-          <description>I am so silly.</description>
-          <pubDate>Wed, 01 Jan 2025 00:00:00 GMT</pubDate>
-        </item>
-<item>
-          <title>Embracing Vim: The Unsung Hero of Code Editors</title>
-          <link>https://couchtostartup.com//blog/vim</link>
-          <description>Discover why Vim, with its steep learning curve, remains a beloved tool among developers for editing code efficiently and effectively.</description>
-          <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-<item>
-          <title>Spaces vs. Tabs: The Indentation Debate Continues</title>
-          <link>https://couchtostartup.com//blog/spaces-vs-tabs</link>
-          <description>Explore the enduring debate between using spaces and tabs for code indentation, and why this choice matters more than you might think.</description>
-          <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
-        </item>
-<item>
-          <title>The Power of Static Typing in Programming</title>
-          <link>https://couchtostartup.com//blog/static-typing</link>
-          <description>In the ever-evolving landscape of software development, the debate between dynamic and static typing continues to be a hot topic.</description>
-          <pubDate>Sun, 07 Apr 2024 00:00:00 GMT</pubDate>
+          <title>The Beginning of Something Beautiful</title>
+          <link>https://couchtostartup.com//blog/the-beginning-of-something-beautiful</link>
+          <description>A couple of weeks ago, I decided to seriously explore an idea that’s been lingering in the back of my mind: opening a teahouse. It all started a few months ago when I visited Tea at Shiloh in downtown LA. The space was breathtaking—calm, intentional, and full of energy that made you want to stay and savor every moment.</description>
+          <pubDate>Fri, 17 Jan 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
   </rss>

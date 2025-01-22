@@ -4,10 +4,10 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Mandy Hong
+        Couch to Startup
       </h1>
       <p className="mb-4">
-        {`I'm Mandy, I am so silly.`}
+        {`Stepping out of comfort, into creation.`}
       </p>
       <div className="my-8">
         <BlogPosts />
