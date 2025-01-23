@@ -1,5 +1,15 @@
 @import 'tailwindcss';
 
+#disqus_thread {
+  max-width: 650px;
+  margin: 0 auto;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+#disqus_thread iframe {
+  background: transparent !important;
+}
+
 ::selection {
   background-color: #47a3f3;
   color: #fefefe;
