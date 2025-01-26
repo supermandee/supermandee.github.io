@@ -4,6 +4,7 @@
   max-width: 650px;
   margin: 0 auto;
   font-family: system-ui, -apple-system, sans-serif;
+  color-scheme: none;
 }
 
 #disqus_thread iframe {
