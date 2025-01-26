@@ -13,12 +13,14 @@ export default function Page() {
       <div className="my-8">
         <BlogPosts limit={3} />
       </div>
-      <Link 
-        href="/blog"
-        className="my-8"
-      >
-        Read all posts → 
-      </Link>
+      <div className="text-neutral-600 dark:text-neutral-300">
+        <Link 
+          href="/blog"
+          className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
+        >
+          Read all posts →
+        </Link>
+      </div>
     </section>
   )
 }
