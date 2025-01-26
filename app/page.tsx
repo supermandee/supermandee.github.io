@@ -17,7 +17,7 @@ export default function Page() {
         <Link 
           href="/blog"
           className="flex items-center transition-all hover:text-neutral-800 dark:hover:text-neutral-100"
-        > ## button
+        > 
           Read all posts →
         </Link>
       </div>
