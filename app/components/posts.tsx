@@ -6,7 +6,7 @@ import remarkRehype from 'remark-rehype'
 import {unified} from 'unified'
 
 
-export async function BlogPosts({ limit }) {
+export async function BlogPosts({ limit }: { limit?: number }) {
   let allBlogs = getBlogPosts()
   
   // Apply sorting and limit
