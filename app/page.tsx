@@ -1,4 +1,5 @@
 import { BlogPosts } from 'app/components/posts'
+import Link from 'next/link'
 
 export default function Page() {
   return (
@@ -10,8 +11,14 @@ export default function Page() {
         {`Stepping out of comfort, into creation.`}
       </p>
       <div className="my-8">
-        <BlogPosts />
+        <BlogPosts limit={3} />
       </div>
+      <Link 
+        href="/blog"
+        className="my-8"
+      >
+        Read all posts → 
+      </Link>
     </section>
   )
 }
