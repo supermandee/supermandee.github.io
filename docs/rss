@@ -5,6 +5,12 @@
         <link>https://couchtostartup.com/</link>
         <description>This is my Couch to Startup blog RSS feed</description>
         <item>
+          <title>When Validation Drives the Bus</title>
+          <link>https://couchtostartup.com//blog/when-validation-drives</link>
+          <description>In my last journal, I talked about the *project that energized me at work.* I found an opportunity to automate a tedious process, jumped on it, and built something I thought would be valuable for our teams. I felt **invincible**—using AI-generated code, I built the core functionality in just eight hours and immediately shared it on Medium and LinkedIn. At the time, I believed it had **real** potential, and I couldn’t wait to show everyone.</description>
+          <pubDate>Sat, 15 Feb 2025 00:00:00 GMT</pubDate>
+        </item>
+<item>
           <title>Beyond the 9-to-5: Uncovering My Deeper Why</title>
           <link>https://couchtostartup.com//blog/uncovering-my-why</link>
           <description>Last year, I considered moving from data science to product management. I wasn’t driven by a deep-seated desire to change roles—our team was building more products, and my manager supported the transition. My motivation was driven by the **momentum** around me, not by an intrinsic passion for the title of "product manager."</description>
